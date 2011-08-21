@@ -31,7 +31,7 @@ syn match wlink              contained "\[\[.*\]\]" contains=plus,star,dollar,ma
 
 " Text Markup
 syn match tm_style           contained "{[^}]*}"
-syn match textmarkup_1       contained "\('/_\|``\|''\|//\|__\|'/\|'_\|/_\)\({[^}]*}\)\?" contains=tm_style
+syn match textmarkup_1       contained "\('/_\|``\|''\|\*\*\|//\|__\|'/\|'_\|/_\)\({[^}]*}\)\?" contains=tm_style
 syn match textmarkup_2       contained "_/'\|\^\^\|,,\|/'\|_'\|_/"
 
 " HTML

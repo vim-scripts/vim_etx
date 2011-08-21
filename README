@@ -1,5 +1,7 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3500
 
-File detection plugin for `etx` file extension, which are contains EazyText markup. Syntax highlighting for EazyText wiki markup.
+File detection plugin for `etx` file extension, which contains EazyText markup.
+
+Syntax highlighting for EazyText wiki markup.
 
 To know more about EazyText wiki processor vising http://eazytext.pluggdapps.com

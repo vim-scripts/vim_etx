@@ -6,6 +6,6 @@
 "  finish
 "endif
 
-au BufRead,BufNewFile *.etx           set filetype=eazytext
+au BufRead,BufNewFile *.etx           set filetype=etx
 
 " vim: ts=8 sw=2
